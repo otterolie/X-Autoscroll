@@ -34,6 +34,8 @@ Edit the values, save, refresh X.
 
 ---
 
+
+```
 ### License
 
 MIT
@@ -100,3 +102,5 @@ MIT
     document.addEventListener('DOMContentLoaded', init) :
     init();
 })();
+
+```
